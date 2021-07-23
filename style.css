@@ -88,3 +88,24 @@ h5 {
 
 
 }
+.h3 {
+    padding:30px 30px 30px 500px ;
+}
+.details {
+    padding: 30px 10px 10px 300px ;
+    background-color: white;
+ 
+    
+}
+.services {
+    padding: 30px 10px 150px 300px;
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
+    color: white;
+   
+}
+.portfolio {
+    background-color: white;
+    color: black;
+    font-size:10px
+}
+
