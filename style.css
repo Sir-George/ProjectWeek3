@@ -88,3 +88,39 @@ h5 {
 
 
 }
+.h3 {
+    padding:30px 30px 30px 500px ;
+}
+.details {
+    padding: 30px 10px 10px 300px ;
+    background-color: white;
+ 
+    
+}
+.services {
+    padding: 30px 10px 150px 300px;
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
+    color: white;
+   
+}
+.portfolio {
+    background-color: white;
+    color: black;
+    font-size:10px
+}
+.inputs {
+
+    width: 500px;
+    height: 42px;
+    border: 2px solid rgb(191, 178, 204);
+    margin:  0 0 15px; 
+    border-radius: 2px;
+    outline: none;
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    text-align: centre;
+    box-shadow: transparent;
+}
+.contactbody {
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
+}
