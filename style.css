@@ -65,6 +65,15 @@ h1 {
     font-size: 58px;
 
 }
+h3 {
+    padding:10px 10px 10px 500px ;
+    font-size: 80;
+  
+}
+h4 {
+    padding:10px 10px 30px 500px ;
+    font-size: 50;
+}
 h5 {
     color: white;
     align-items: center;
@@ -97,8 +106,17 @@ h5 {
  
     
 }
+.functionality {
+    padding: 40px 30px 30px 700px ;
+    background-color: white;
+
+}
+h6 {
+    font-size: 30px;
+    /* text-align: center; */
+}
 .services {
-    padding: 30px 10px 150px 300px;
+    padding: 150px 10px 150px 300px;
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
     color: white;
    
@@ -112,15 +130,58 @@ h5 {
 
     width: 500px;
     height: 42px;
-    border: 2px solid rgb(191, 178, 204);
+    border: 1px solid white;
     margin:  0 0 15px; 
-    border-radius: 2px;
-    outline: none;
-    box-sizing: border-box;
-    border-radius: 10px 10px 10px 10px;
-    text-align: centre;
-    box-shadow: transparent;
+    padding: 8px;
+    background:white
+  
+    
 }
+
 .contactbody {
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+}
+
+.Icons {
+    /* background-color: white; */
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: auto;
+    display: flex;
+    position:absolute;
+    top: 80%;
+    left: 47%;
+
+}
+.footer {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position:absolute;
+    top: 90%;
+    left: 47%;
+
+}
+.btn {
+    border:1px solid rgb(141, 131, 131);
+      background-color:white;
+      display:flex
+         
+}
+.btn:hover {
+    background-color:rgb(203, 235, 166);
+      font-weight: bold;    
+}
+.modal-container {
+    display: none;
+    position: fixed;
+    background-color: grey;
+}
+.modal{
+    background-color: grey;
+    padding:initial;
+    text-align: center
 }
